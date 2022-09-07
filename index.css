@@ -1,0 +1,37 @@
+h2{
+    text-align: center;
+}
+.outer_div{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+.border_of_table{
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 15px;
+    width: fit-content;
+    background-color: aliceblue;
+    font-weight: 900;
+}
+.content{
+    display: block;
+    margin-bottom: 10px;
+    font-size: larger;
+}
+select{
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+button{
+    font-size: medium;
+    border-radius: 5px;
+    background-color: bisque;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+.convert{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
